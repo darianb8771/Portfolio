@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css?family=Merriweather:400,400i,700");
+
+
+body {
+  padding-top: 50px;
+	background-color: #140900;
+background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-light.png");
+	background-repeat:repeat;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}.first-row{
+  width: 25%;
+  height:100px;
+  background-color: teal;
+  float: left;
+  margin: 10px;
+}.second-row{
+  width: 10%;
+  height:50px;
+  background-color: lime;
+  
+  margin: 10px;
+}
