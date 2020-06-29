@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css?family=Merriweather:400,400i,700");
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+/* Container holding the image and the text */
+.picture {
+  position: relative;
+	border-radius: 50%;
+	padding:20px;
+	
+}
+
+/* Bottom right text */
+.text-block {
+  position: absolute;
+  bottom: 20px;
+  left: 243px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
